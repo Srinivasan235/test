@@ -7,8 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Cloud Build testing<code>src/App.js</code> and save to reload.
+          CI/CD Test<code>src/App.js</code> and save to reload.
         </p>
+        <h3>This is a h3</h3>
         <a
           className="App-link"
           href="https://reactjs.org"
